@@ -12,33 +12,11 @@ Primary app is at [https://covid19india-network](https://covid19india-network.no
 2.  NLP based analysis of Notes section to find out relationship info, travel history etc.
 3.  Travel history of locations visited of patients, stay time etc.
 
-## Data Sources
-
-#### Patient data :
-
-- Unofficial sources: https://api.rootnet.in/covid19-in/unofficial/sources
-- Unofficial patient tracing data: https://api.rootnet.in/covid19-in/unofficial/covid19india.org
-
-Credits : [https://github.com/amodm/api-covid19-in](https://github.com/amodm/api-covid19-in)
-
-
-Submit new cases [here](https://aka.ms/reportcovid) !
-
-### NLP Extraction From Unstructured Notes :
-
-Credits : [https://github.com/NirantK/coronaIndia](https://github.com/NirantK/coronaIndia)
-
-#### Credits
-
-Somashekar
-ManiDas
-Rohit Krishnan M
-
 
 ## Maintainers
 
 - [sibeshkar](https://github.com/sibeshkar)
-- [someshkar](https://github.com/someshkar)
+
 - [rohitkrishnanm](https://github.com/rohitkrishnanm)
 
 ## Contributing
