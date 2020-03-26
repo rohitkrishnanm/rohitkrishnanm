@@ -21,9 +21,6 @@ Primary app is at [https://covid19india-network.now.sh](https://covid19india-net
 
 Credits : [https://github.com/amodm/api-covid19-in](https://github.com/amodm/api-covid19-in)
 
-### Spreadsheet :
-
-- [https://docs.google.com/spreadsheets/d/1nzXUdaIWC84QipdVGUKTiCSc5xntBbpMpzLm6Si33zk/edit#gid=0](https://docs.google.com/spreadsheets/d/1nzXUdaIWC84QipdVGUKTiCSc5xntBbpMpzLm6Si33zk/edit#gid=0)
 
 Submit new cases [here](https://aka.ms/reportcovid) !
 
@@ -33,20 +30,16 @@ Credits : [https://github.com/NirantK/coronaIndia](https://github.com/NirantK/co
 
 #### Credits
 
-- Awesome team at [covid19india.org](https://www.covid19india.org/)
+Somashekar
+ManiDas
+Rohit Krishnan M
 
-## Customizing
-
-This app can be hooked to any google sheets based database. Is currently based on [covid19india.org](<[https://docs.google.com/spreadsheets/d/1nzXUdaIWC84QipdVGUKTiCSc5xntBbpMpzLm6Si33zk/edit#gid=0](https://docs.google.com/spreadsheets/d/1nzXUdaIWC84QipdVGUKTiCSc5xntBbpMpzLm6Si33zk/edit#gid=0)>) live crowdsourced patient database. Edit client_secrets.json and modify the endpoint in the /api folder to hook it to your own, then deploy to zeit.co to have it working online.
-
-## Issues
-
-Submit an issue or feature request at [issues](https://www.covid19india.org/) or contact the maintainers.
 
 ## Maintainers
 
 - [sibeshkar](https://github.com/sibeshkar)
 - [someshkar](https://github.com/someshkar)
+- [rohitkrishnanm](https://github.com/rohitkrishnanm)
 
 ## Contributing
 
